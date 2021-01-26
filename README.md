@@ -14,4 +14,4 @@ Code Descriptions:
 LIWC_GA_Query_Clean (1).ipynb: code used for cleaning and merging raw data
 LIWC GA Machine.ipynb: Tensorflow code 
 
-Note: LIWC GA Machine should not error, but many of the result metrics (loss, precision, recall, F1) all return 'NaN' for values. This needs to be debugged
+Note: LIWC GA Machine should not error, but many of the result metrics (loss, precision, recall, F1) all return 'NaN' for values. This needs to be debugged. For your benefit, the Machine file alreadt includes some sample code halted while running to portray the problem. This can be found in the #Run the model codeblock (In[15]). 
